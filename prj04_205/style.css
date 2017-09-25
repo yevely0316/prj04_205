@@ -1,0 +1,7 @@
+* {margin: 0; padding: 0; text-decoration: none; list-style: none;}
+
+header {width: 100%; text-align: center;height: 100px;}
+
+nav ul{width: 800px;height: 300px; margin-top: 300px; margin-left: 300px;}
+
+nav ul li {float: left; margin-left: 100px; }
